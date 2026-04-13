@@ -1,4 +1,4 @@
-<h1 align="center">Olá! Eu sou o Igor Wingert 👋</h1>
+<h1 align="center">Olá! Eu sou o Igor👋</h1>
 
 <p align="center">
   <img src="./banner-git.jpg" alt="Banner do Igor" />
@@ -43,42 +43,55 @@ Tenho interesse em transformar dados de rede em insights úteis para operação,
 
 ## 🛠️ Tecnologias e ferramentas
 
-### Redes e Infraestrutura
-- MikroTik
-- Huawei
-- Ubiquiti
-- TCP/IP
-- VLAN, OSPF, BGP
-- Monitoramento de redes
-- NetFlow
-- Troubleshooting
+### Redes, Infraestrutura e Monitoramento
 
-### Dados e programação
-- Python
-- SQL
-- Power BI
-- Pandas
-- NumPy
-- Jupyter Notebook
+<p>
+  <img src="https://img.shields.io/badge/MikroTik-293239?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Huawei-C7000B?style=for-the-badge&logo=huawei&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ubiquiti-0559C9?style=for-the-badge&logo=ubiquiti&logoColor=white" />
+  <img src="https://img.shields.io/badge/Zabbix-D40000?style=for-the-badge&logo=zabbix&logoColor=white" />
+  <img src="https://img.shields.io/badge/The%20Dude-0E7A0D?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/NetFlow-1F6FEB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/TCP%2FIP-00599C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/VLAN-6A1B9A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/OSPF-FF6F00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/BGP-2E7D32?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Fibra%20%C3%93ptica-00897B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Troubleshooting-546E7A?style=for-the-badge" />
+</p>
 
-### Estudando atualmente
-- Machine Learning
-- Análise exploratória de dados
-- Visualização de dados
-- Engenharia de dados aplicada a redes
+### Dados e Programação
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
+### Machine Learning e Ciência de Dados
+
+<p>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/XGBoost-EC6B23?style=for-the-badge" />
+</p>
 
 ---
 
 ## 📌 Projetos em destaque
 
-- Projeto de análise de tráfego com foco em **NetFlow**
-- Estudos e exercícios de **Ciência de Dados**
-- Dashboards e análises com **Power BI**
-- Projetos acadêmicos de **Inteligência Artificial** e **Mineração de Dados**
+vou adicionar ainda :D
 
 ---
 
 ## 📫 Contato
 
-- LinkedIn: www.linkedin.com/in/igor-wingert-0885a8288
+- LinkedIn: https://www.linkedin.com/in/igor-wingert-0885a8288
 - Email: igwingert@gmail.com
