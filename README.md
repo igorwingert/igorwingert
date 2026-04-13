@@ -9,8 +9,15 @@
 </p>
 
 <p align="center">
-  <a href="www.linkedin.com/in/igor-wingert-0885a8288">LinkedIn</a> •
-  <a href="https://www.instagram.com/igor_wingert/">GitHub</a> 
+  <a href="https://www.linkedin.com/in/igor-wingert-0885a8288">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/igor_wingert/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://wa.me/5545988420972?text=Ol%C3%A1%2C%20gostaria%20de%20conversar%20contigo!">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
 </p>
 
 ---
