@@ -1,7 +1,7 @@
 <h1 align="center">Olá! Eu sou o Igor Wingert 👋</h1>
 
 <p align="center">
-  <img src="./igor-banner.png" alt="Banner do Igor" />
+  <img src="./banner-git.jpg" alt="Banner do Igor" />
 </p>
 
 <p align="center">
