@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="www.linkedin.com/in/igor-wingert-0885a8288">LinkedIn</a> •
-  <a href="https://www.instagram.com/igor_wingert/">GitHub</a> •
+  <a href="https://www.instagram.com/igor_wingert/">GitHub</a> 
 </p>
 
 ---
